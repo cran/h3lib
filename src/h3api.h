@@ -106,9 +106,9 @@ typedef enum {
 
 /* library version numbers generated from VERSION file */
 // clang-format off
-#define H3_VERSION_MAJOR @H3_VERSION_MAJOR@
-#define H3_VERSION_MINOR @H3_VERSION_MINOR@
-#define H3_VERSION_PATCH @H3_VERSION_PATCH@
+#define H3_VERSION_MAJOR 4
+#define H3_VERSION_MINOR 1
+#define H3_VERSION_PATCH 0
 // clang-format on
 
 /** Maximum number of cell boundary vertices; worst case is pentagon:
@@ -487,7 +487,7 @@ DECLSPEC H3Error H3_EXPORT(stringToH3)(const char *str, H3Index *out);
  * @{
  */
 /** @brief converts an H3Index to a canonical string */
-//DECLSPEC H3Error H3_EXPORT(h3ToString)(H3Index h, char *str, size_t sz);
+DECLSPEC H3Error H3_EXPORT(h3ToString)(H3Index h, char *str, size_t sz);
 /** @} */
 
 /** @defgroup isValidCell isValidCell
