@@ -1,9 +1,10 @@
-3c25545e7710da3de2e38d4e52e0a410 *DESCRIPTION
+c15b96e33eefa3c6a7497228e5b142a7 *DESCRIPTION
 20795d2310bed70f440b9eca5b61688e *LICENSE
 cbbf228fca40b6eea293815b6a22643d *NAMESPACE
+46a09655aa39c1e5c3f62b7363d2e550 *NEWS.md
 710062ce4d9a8ef646b82cc4b4a06f09 *R/h3lib-package.R
 f453edff81863eae90263b54cc7bf53d *README.md
-a0dc0113f38b7e62ff9400d2fa21ff21 *inst/include/h3libapi.h
+666bf0e6451b1f5d963d1480fdde0227 *inst/include/h3libapi.h
 5f39d5e88e6c4135b72a3ff0aeb717b7 *man/h3lib.Rd
 b07da72d3b13da9cb3373b261dc2dbea *src/algos.c
 6a2e5a3ad60ecd14585b03c6555b10d0 *src/algos.h
@@ -24,7 +25,7 @@ c7fede25cdee85026163b36d259ce067 *src/h3Assert.h
 c42848017bc37b84899e6d27c3323d7c *src/h3Index.c
 d4bb2c1f573f1ca0ee399224e03758f9 *src/h3Index.h
 8594f6141fea0ce3c10078f1d250b446 *src/h3api.h
-de363fee95e67fec80e4a6e18ac10d23 *src/init.c
+65181b3a10124dcc1b335bb1bacae73f *src/init.c
 e0f58e53a9866fb0f7dc3764354ae0e0 *src/iterators.c
 74a00d697969af60c86396ca053b695a *src/iterators.h
 076faa0b00047dc44748f2ecdd6311ae *src/latLng.c

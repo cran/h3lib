@@ -1,8 +1,8 @@
 Package: h3lib
 Type: Package
 Title: Exposes the 'Uber' 'H3' Library to R Packages
-Version: 0.1.2
-Date: 2023-10-12
+Version: 0.1.3
+Date: 2024-01-31
 Authors@R: c(
     person("David", "Cooley", ,"dcooley@symbolix.com.au", role = c("aut", "cre")),
     person("Ray", "Shao", ,"rshao@symbolix.com.au", role = c("ctb"))
@@ -15,10 +15,11 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.2.3
 Suggests: tinytest
+Depends: R (>= 3.0.0)
 NeedsCompilation: yes
-Packaged: 2023-10-11 21:18:14 UTC; dave
+Packaged: 2024-01-31 00:39:06 UTC; dave
 Author: David Cooley [aut, cre],
   Ray Shao [ctb]
 Maintainer: David Cooley <dcooley@symbolix.com.au>
 Repository: CRAN
-Date/Publication: 2023-10-11 22:10:19 UTC
+Date/Publication: 2024-01-31 00:50:02 UTC
