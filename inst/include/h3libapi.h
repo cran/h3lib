@@ -51,7 +51,6 @@ typedef enum {
     PENTAGON_SKIPPED_DIGIT = K_AXES_DIGIT /* 1 */
 } Direction;
 
-
 #define MAX_CELL_BNDRY_VERTS 10
 
 /** @struct LatLng
